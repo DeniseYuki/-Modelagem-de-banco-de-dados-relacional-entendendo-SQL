@@ -1,0 +1,7 @@
+SET FOREIGN_KEY_CHECKS = 0;
+
+INSERT INTO LIVROS VALUES(
+1,
+"COMO EU ERA ANTES DE VOCE","JOJO MOYES","EDITORA SEI LA","ROMANCE",45.99);
+INSERT INTO LIVROS VALUES (
+ 2,'Percy Jackson e o Ladrão de Raios','Rick Riordan','Intrínseca','Aventura',34.45);
